@@ -1,0 +1,9 @@
+name: PlantFlower
+version: 1.0.0
+main: GreenJajot\PlantFlower\Main
+api: 3.0.0
+author: GreenJajot
+commands:
+ plantflower:
+  description: "Đặt Cược Trồng Ra Hoa Hay Không"
+  default: true

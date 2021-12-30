@@ -1,0 +1,317 @@
+---
+crates:
+# HUGE THANKS TO @DaPigGuy and his PiggyCrates plugin for making multiple crates possible.
+#
+# Disclaimer: Some part of this code has been taken from @DaPigGuy's plugin,
+# I have asked his permission to use his code as a reference before hand as to avoid
+# unnecessary complains and/or contradictions.
+#
+# To reward the player with a command make sure that the meta of the reward is same as
+# commandMeta set in config.yml or else the command won't work.
+#
+# Example on how to set the config.
+# Note: Please use tabs instead of spaces.
+#-------------------------------------------------------------------------------------------------------------------------------
+# example:               | Set the name of the crate.
+#  drops:                | List the items that can be received from the crate.
+#   - name: "G-Helmet"   | Custom name for the item. Use "§" for adding colors.
+#     id: 1              | ID of the reward.
+#     meta: 0            | Meta or Damage value of the Item.
+#     amount: 1          | The amount of Item that player receives.
+#     enchantments:      | Set enchants for items here. Both VanillaEnchantments and PiggyCustomEnchants are supported.
+#       protection:      | Name of enchant you wish to apply.
+#         level: 3       | The level for enchant.
+#       unbreaking:      | You can set multiple enchants as long as they are registered.
+#         level: 2       | NOTE: If you donot want enchants simply remove the enchantments heading.
+#     lore: "USE ME"     | Add a custom lore to the reward. Use "\n" for next line.
+#     commands:          | Add commands to execute when player wins a reward. Multiple commands supported.
+#     - "say hi"         | Use \"%PLAYER%\" to insert player name (with the quotes and slash).
+#     - "say test"       | Don't forget to mention the maxCommands in config.yml.
+#  block: "911:0"        | Set the block ID you want the crate to represent. Placing a chest on it will activate the crate.
+# ------------------------------------------------------------------------------------------------------------------------------
+  vote:
+    drops:
+      - name: "§l§b→ §l§eCúp Zeus§b ←"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 15
+          unbreaking:
+            level: 15
+          fortune:
+            level: 5
+      - name: "§l§b→ §l§eCúp Thor§b ←"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 20
+          unbreaking:
+            level: 20
+          fortune:
+            level: 6
+      - name: "§l§b→ §l§eCúp Bird§b ←"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 20
+          unbreaking:
+            level: 20
+          fortune:
+            level: 6
+          haste:
+            level: 1
+      - name: "Kim Cương"
+        id: 264
+        meta: 0
+        amount: 32
+      - name: "Xương"
+        id: 352
+        meta: 0
+        amount: 16
+      - name: "Gỗ"
+        id: 264
+        meta: 0
+        amount: 32
+      - name: "Đèn hiệu"
+        id: 138
+        meta: 0
+        amount: 1
+      - name: "Kiếm Kim Cương Không Có Enchant"
+        id: 276
+        meta: 0
+        amount: 1
+      - name: "Vàng"
+        id: 266
+        meta: 0
+        amount: 32
+      - name: "Lá Cây Nè Bạn Ơi!!!"
+        id: 18
+        meta: 0
+        amount: 32
+      - name: "Giường"
+        id: 26
+        meta: 0
+        amount: 32
+      - name: "Cây Hoa Màu Vàng :V"
+        id: 37
+        meta: 0
+        amount: 3
+    block: "173:0"
+  premium:
+    drops:
+      - name: "§l§b→ §l§eCúp Angle§b ←"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 25
+          unbreaking:
+            level: 25
+          fortune:
+            level: 10
+          haste:
+            level: 2
+          autorepair:
+            level: 1
+      - name: "§l§b→ §l§eCúp Angle§b ←"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 33
+          unbreaking:
+            level: 33
+          fortune:
+            level: 10
+          haste:
+            level: 3
+          autorepair:
+            level: 1
+      - name: "§l§b→ §l§eKiếm Noob§b ←"
+        id: 276
+        meta: 0
+        amount: 1
+        enchantments:
+          sharpness:
+            level: 10
+          unbreaking:
+            level: 10
+          knockback:
+            level: 2
+          poison:
+            level: 1
+          autorepair:
+            level: 1
+      - name: "§l§b→ §l§eKiếm Angle§b ←"
+        id: 276
+        meta: 0
+        amount: 1
+        enchantments:
+          sharpness:
+            level: 15
+          unbreaking:
+            level: 13
+          knockback:
+            level: 4
+          poison:
+            level: 1
+          autorepair:
+            level: 1
+          wither:
+            level: 1
+      - name: "§l§b→ §l§eMũ MineTown§b ←"
+        id: 310
+        meta: 0
+        amount: 1
+        enchantments:
+          protection:
+            level: 10
+          unbreaking:
+            level: 10
+          tank:
+            level: 2
+          autorepair:
+            level: 1
+      - name: "§l§b→ §l§eÁo MineTown§b ←"
+        id: 311
+        meta: 0
+        amount: 1
+        enchantments:
+          protection:
+            level: 10
+          unbreaking:
+            level: 10
+          tank:
+            level: 2
+          autorepair:
+            level: 1
+      - name: "§l§b→ §l§eQuần MineTown§b ←"
+        id: 312
+        meta: 0
+        amount: 1
+        enchantments:
+          protection:
+            level: 10
+          unbreaking:
+            level: 10
+          tank:
+            level: 2
+          autorepair:
+            level: 1
+      - name: "§l§b→ §l§eGiày MineTown§b ←"
+        id: 313
+        meta: 0
+        amount: 1
+        enchantments:
+          protection:
+            level: 10
+          unbreaking:
+            level: 10
+          jetpack:
+            level: 1
+          autorepair:
+            level: 1
+      - name: "Trừng Rồng!!!"
+        id: 122
+        meta: 0
+        amount: 1
+      - name: "Đá siêu cứng"
+        id: 7
+        meta: 0
+        amount: 1
+      - name: "Cây Hoa Màu Vàng :V"
+        id: 37
+        meta: 0
+        amount: 5
+    block: "57:0"
+  job:
+    drops:
+      - name: "§l§b→ §l§eCúp Nông Dân§b ←"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 20
+          unbreaking:
+            level: 20
+          fortune:
+            level: 6
+          haste:
+            level: 1
+          autorepair:
+            level: 1
+      - name: "§l§b→ §l§eCuốc Chim Nông Dân§b ←"
+        id: 293
+        meta: 0
+        amount: 1
+        enchantments:
+          unbreaking:
+            level: 20
+          mending:
+            level: 2
+          harvest:
+            level: 1
+          farmer:
+            level: 1
+      - name: "§l§b→ §l§eRìu Nông Dân§b ←"
+        id: 279
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 20
+          unbreaking:
+            level: 20
+          fortune:
+            level: 3
+          haste:
+            level: 1
+          lumberjack:
+            level: 1
+      - name: "Kim Cương"
+        id: 264
+        meta: 0
+        amount: 32
+      - name: "Xương"
+        id: 352
+        meta: 0
+        amount: 16
+      - name: "Gỗ"
+        id: 264
+        meta: 0
+        amount: 32
+      - name: "Đèn hiệu"
+        id: 138
+        meta: 0
+        amount: 1
+      - name: "Kiếm Kim Cương Không Có Enchant"
+        id: 276
+        meta: 0
+        amount: 1
+      - name: "Vàng"
+        id: 266
+        meta: 0
+        amount: 32
+      - name: "Lá Cây Nè Bạn Ơi!!!"
+        id: 18
+        meta: 0
+        amount: 32
+      - name: "Giường"
+        id: 26
+        meta: 0
+        amount: 32
+      - name: "Cây Hoa Màu Vàng :V"
+        id: 37
+        meta: 0
+        amount: 3
+    block: "42:0"
+...

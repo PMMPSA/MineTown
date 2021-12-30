@@ -1,0 +1,25 @@
+---
+# Không có tin nhắn URL
+no-urls: "§e[§aMine§bTown§e] §bBạn không thể chat địa chỉ URL trên khung chat, xin hãy không chat địa chỉ URL trên khung chat."
+# Không có tin nhắn địa chỉ IP
+no-ips: "§e[§aMine§bTown§e] §bBạn không thể chat địa chỉ IP trên khung chat, xin hãy không chat địa chỉ IP trên khung chat."
+# Không có tin nhắn chửi thề
+no-swearing: "§e[§aMine§bTown§e] §bBạn không thể chat từ cấm, xin hãy chat từ khác..."
+# Tin nhắn không được ký tự in hoa
+no-caps: "§e[§aMine§bTown§e] §bBạn không thể chat chữ in hoa, xin hãy không chat từ in hoa."
+# Tin nhắn ký tự không hợp lệ / không được phép
+invalid: "§e[§aMine§bTown§e] §bBạn không thể chat từ có kí tự đặc biệt, xin hãy không chat từ có kí tự đặc biệt."
+# Tin nhắn quá dài
+too-long: "§e[§aMine§bTown§e] §bBạn không thể chat tin nhắn trên khung chat quá dài, xin hãy chat ngắn lại."
+# Không spam message
+no-spam: "§e[§aMine§bTown§e] §bBạn chat nhanh quá, xin hãy chat chậm chậm lại..."
+# Spam delay message
+#spam-delay: "{PREFIX} &cBạn chat nhanh quá, xin hay chờ {DELAY} giây trước khi gửi tin nhắn khác"
+spam-delay: "§e[§aMine§bTown§e] §bBạn chat nhanh quá, xin hãy chat chậm chậm lại..."
+# Tin nhắn bị mute (khi người chơi bị mute cố gắng gửi tin nhắn)
+muted-error: "§e[§aMine§bTown§e] §bBạn không thể gửi tin nhắn vì bạn bị mute"
+# Tin nhắn mute
+muted: "§e[§aMine§bTown§e] &bBạn đã bị tắt tiếng vì {DURATION} bởi {PLAYER}!"
+# Tin nhắn unmute
+unmuted: "§e[§aMine§bTown§e] &bBạn đã được tắt mute bởi {PLAYER}"
+...

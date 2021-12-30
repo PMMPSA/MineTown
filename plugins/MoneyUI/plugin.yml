@@ -1,0 +1,8 @@
+name: MoneyUI
+version: 1.0
+main: MoneyUI\Main
+api: [3.0.0]
+author: TuiDepTraii
+commands:
+  money:
+    description: "Hệ thống MoneyUI"

@@ -1,0 +1,10 @@
+name: MuaKey
+main: MuaKey\Main
+version: 1.0.0
+author: PhanHoangKha
+api: 3.0.0
+description: "Mua Key Quay Tay :V"
+commands:
+  muakey:
+   description: "Mua Key Quay Tay :V"
+   default: true

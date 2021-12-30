@@ -1,0 +1,33 @@
+name: PickaxeLevelV7
+main: PickaxeLevel\Main
+version: 7.0
+api: [3.0.0]
+author: phuongaz
+editor: GreenJajot
+
+commands:
+ givecup:
+  description: Trao Cúp Pickaxe Level Cho Người Chơi.
+  default: op
+ topcup:
+  description: Xem Top Pickaxe Level Của Server.
+  default: true
+ topchuyensinh:
+  description: Xem Top Chuyển Sinh Của Server.
+  default: true
+ chuyensinh:
+  description: Dùng Để Chuyển Sinh
+  default: true
+ solanchuyensinh:
+  description: Dùng Để Xem Số Lần Chuyển Sinh
+  default: true
+ setchuyensinh:
+  description: Dùng Để Đặt Số Lần Chuyển Sinh
+  default: op
+ setcuplevel:
+  description: Dùng Để Đặt Cấp Cúp Level
+  default: op
+ tangtilecs:
+  description: Dùng Để Tăng Tỉ Lệ Mine Xu Của Chuyển Sinh
+  default: true
+ 

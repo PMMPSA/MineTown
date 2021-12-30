@@ -1,0 +1,12 @@
+name: AutoFeed
+main: AutoFeed\Main
+version: 2.0
+api: [3.0.0]
+author: MineTown
+commands:
+  autofeed:
+    description: • MineTown • AutoFeed Command
+    permission: autofeed.command
+permissions:
+  autofeed.command:
+    default: true

@@ -1,0 +1,25 @@
+name: SkillMiner
+author: GreenJajot
+version: 1.0
+main: SkillMiner\Main
+api: 3.0.0
+commands:
+ skill:
+  description: "Mở Menu Skill"
+  default: true
+ muaskill:
+  description: "Mở Menu Mua Skill"
+  default: true
+permissions:
+  skillminer.fastmine:
+    default: false
+  skillminer.kingofblock:
+    default: false
+  skillminer.pickaxeleveling:
+    default: false
+  skillminer.richdreamer:
+    default: false
+  skillminer.rebirthminer:
+    default: false
+  skillminer.eternity:
+    default: false

@@ -1,0 +1,12 @@
+---
+userName: CuongVNMine
+group: Helper
+permissions:
+- skillminer.fastmine
+- skillminer.rebirthminer
+- skillminer.pickaxeleveling
+worlds: []
+time: -1
+suffix: RitornareLuck
+expTime: -1
+...

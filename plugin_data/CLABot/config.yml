@@ -1,0 +1,11 @@
+---
+# Spin on or off
+spin: "on"
+# Nametags are NPC Names
+nametags:
+  - §eHello
+  - §bMày là ai?
+  - §cCút đi
+  - §aTao có súng đó tao bắn mày giờ
+  - §dThôi tao đi đây
+...

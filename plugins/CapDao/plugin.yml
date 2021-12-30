@@ -1,0 +1,12 @@
+---
+name: TopDao
+main: MT\TopDao\Main
+version: 1.0.0
+api: 3.0.0
+author: TuiDepTraii
+
+commands:
+  topdao:
+    aliases: ["capdao"]
+    description: Mở Menu TopDao
+...

@@ -1,0 +1,23 @@
+---
+# AutoClearLagg (ACL) Config
+# Được Việt Hóa Bởi: Nờ Cờ Dờ (NCD)
+
+# Thời Gian Dọn Rác.
+seconds: 150
+
+# Tùy Chọn Dọn Rác.
+clear:
+  items: true
+  mobs: true
+  exempt: # Không Dọn Các Mob Theo Tùy Chọn.
+    - Zombie
+    - Pig
+
+# Lời Nhắn Khi Dọn Rác.
+messages:
+  time-left: "§f[§eMine§bTown§f] §c↠ §aTất cả rác sẽ dọn trong §c{SECONDS} §agiây nữa."
+  entities-cleared: "§f[§eMine§bTown§f] §c↠ §aĐã dọn được tổng §c{COUNT} §arác."
+
+# Thời Gian Nhắc Dọn Rác.
+times: [5]
+...

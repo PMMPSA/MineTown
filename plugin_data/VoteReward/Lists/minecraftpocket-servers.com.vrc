@@ -1,0 +1,1 @@
+{"website":"https://minecraftpocket-servers.com/","check":"http://minecraftpocket-servers.com/api-vrc/?object=votes&element=claim&key=5Wvi1pSKA7LPBXu0Phd4nbtCeDSyzPKE2wY&username={USERNAME}","claim":"http://minecraftpocket-servers.com/api-vrc/?action=post&object=votes&element=claim&key=5Wvi1pSKA7LPBXu0Phd4nbtCeDSyzPKE2wY&username={USERNAME}"}

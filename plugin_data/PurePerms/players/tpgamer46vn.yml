@@ -1,0 +1,12 @@
+---
+userName: TPGamer46Vn
+group: VIP
+permissions:
+- setname.command.item
+- skillminer.eternity
+- skillminer.fastmine
+worlds: []
+time: -1
+suffix: craftmo
+expTime: -1
+...

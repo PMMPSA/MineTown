@@ -1,0 +1,16 @@
+---
+bancmds:
+  /rob: /rob
+  /reload: /reload
+  /list: /list
+  /wp: /wp
+  /worldprotect: /worldprotect
+banitem:
+  46: TNT
+  389: Item Frame
+  261: Bow
+  383: Spawn Egg
+  471: Crossbow
+pvp: false
+gamemode: 0
+...

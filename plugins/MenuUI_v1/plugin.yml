@@ -1,0 +1,9 @@
+name: MenuUI
+main: MenuUI\Main
+version: 1.0.0
+api: 3.0.0
+author: PhanHoangKha
+
+commands:
+  menu:
+    description: Mở Menu

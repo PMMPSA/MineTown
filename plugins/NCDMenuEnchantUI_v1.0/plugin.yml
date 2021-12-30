@@ -1,0 +1,10 @@
+name: ConCacUi
+main: NCDMenuEnchantUI\Main
+version: 1.0
+api: 3.0.0
+author: Nờ Cờ Dờ (NCD)
+
+commands:
+  buyec:
+    aliases: ["muaec"]
+    description: Mở Menu Enchant

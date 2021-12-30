@@ -1,0 +1,19 @@
+---
+bancmds:
+  /fly: /fly
+  /gmc: /gmc
+  /me: /me
+  /tpto: /tpto
+  /size: /size
+  /muafly: /muafly
+  /give: /give
+  /tp: /tp
+banitem:
+  325: Bucket
+  8: Water
+  10: Lava
+  277: Diamond Shovel
+  369: Blaze Rod
+  399: Nether Star
+protect: lock
+...

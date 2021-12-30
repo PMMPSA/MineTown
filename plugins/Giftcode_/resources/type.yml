@@ -1,0 +1,11 @@
+---
+diamond:
+  - "give {player} 10"
+  - "say {player} bla bla"
+gold:
+  - "give {player} 10"
+  - "say {player} bla bla"
+iron:
+  - "give {player} 10"
+  - "say {player} bla bla"
+...

@@ -1,0 +1,42 @@
+---
+version: 1.4.10-6
+default-factions-plugin: FactionsPro
+enable-multiworld-chat: false
+groups:
+  Guest:
+    chat: §b【§e{fac_rank}{fac_name}§b】 §a♪ §f⇀ §bMember §f↼ §a♪ §f{display_name} §l§c[§r{suffix}§l§c]
+      §r§e→ §f{msg}
+    nametag: §b【§e{fac_rank}{fac_name}§b】 §a♪ §f⇀ §bMember §f↼ §a♪ §f{display_name}
+      §l§c[§r{suffix}§l§c] §e→ §f{msg}
+    worlds: []
+  Admin:
+    chat: §l§e☉§f...§cAd§bmin§f...§e☉ §l§f{display_name} §6✎ §l§d{msg} §a✔
+    nametag: '&a[Admin]&e {fac_rank}{fac_name} &6{display_name}'
+    worlds: []
+  Owner:
+    chat: '&d[Owner] &c{fac_rank}{fac_name} &b{display_name} &c>&6> &b{msg}'
+    nametag: '&d[Owner]&c {fac_rank}{fac_name} &b{display_name}'
+    worlds: []
+  OP:
+    chat: '&a[OP] &5{fac_rank}{fac_name}&b {prefix}{display_name}{suffix} &c>&6> &f{msg}'
+    nametag: '&a[OP] &c{fac_rank}{fac_name} &b{display_name}'
+    worlds: []
+  VIP:
+    chat: §f[§c{fac_rank}{fac_name}§f] §r§e…ღ→ §bViP§e ←ღ… §r{display_name} §l§c[§r{suffix}§l§c]
+      §r§d→§6 {msg}
+    nametag: §f[§c{fac_rank}{fac_name}§f] §r§e…ღ→ §bViP§e ←ღ… §r{display_name} §l§c[§r{suffix}§l§c]
+      §d→§6 {msg}
+  VIPs:
+    chat: §f[§c{fac_rank}{fac_name}§f] §r§l§a…ღ→ §eThe♦King §a←ღ… §r{display_name}
+      §l§c[§r{suffix}§l§c] §r§d→§6 {msg}
+    nametag: §f[§c{fac_rank}{fac_name}§f] §r§l§a…ღ→ §eThe♦King §a←ღ… §r{display_name}
+      v §d→§6 {msg}
+  Member:
+    chat: '[{suffix}] §3Member -> {msg}'
+    nametag: '&8&l[Member]&f&r {display_name}'
+  Helper:
+    chat: §b【§c{fac_rank}{fac_name}§b】 §2♪ §f⇀ §a§lHelper §f↼ §2♪ §e{display_name}
+      §c♡§r {suffix}§c ♡ §a→ §f§l{msg}'
+    nametag: §b【§c{fac_rank}{fac_name}§b】 §2♪ §f⇀ §aHëlper §f↼ §2♪ §e{display_name}
+      §c♡§r {suffix}§c ♡
+...

@@ -1,0 +1,97 @@
+---
+Guest:
+  alias: gst
+  inheritance: []
+  permissions:
+  - essentials.kit
+  - essentials.kit.other
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pointapi.command.paymcoin====
+  - pperms.command.ppinfo
+  worlds: []
+  isDefault: true
+Admin:
+  alias: adm
+  inheritance:
+  - Guest
+  permissions:
+  - essentials.gamemode
+  - pocketmine.broadcast
+  - pocketmine.command.gamemode
+  - pocketmine.command.give
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  worlds: []
+Owner:
+  alias: owr
+  inheritance:
+  - Admin
+  permissions:
+  - essentials
+  - pocketmine.command
+  - pperms.command
+  worlds: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  worlds: []
+VIP:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - essentials.fly
+  - essentials.kit
+  - essentials.kit.other
+  - essentials.nick.use
+  - kichco.command
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.fly
+  - pocketmine.command.list
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+VIPs:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - essentials.fly
+  - essentials.kit
+  - essentials.kit.other
+  - essentials.nick.use
+  - essentials.time
+  - kichco.command
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  - pperms.command.ppinfo
+  worlds: []
+Member:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+Helper:
+  alias: ""
+  isDefault: false
+  inheritance:
+  - Guest
+  - VIP
+  permissions:
+  - essentials.fly.use
+  - essentials.nick.use
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  worlds: []
+...

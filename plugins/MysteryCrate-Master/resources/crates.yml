@@ -1,0 +1,121 @@
+---
+crates:
+# HUGE THANKS TO @DaPigGuy and his PiggyCrates plugin for making multiple crates possible.
+#
+# Disclaimer: Some part of this code has been taken from @DaPigGuy's plugin,
+# I have asked his permission to use his code as a reference before hand as to avoid
+# unnecessary complains and/or contradictions.
+#
+# To reward the player with a command make sure that the meta of the reward is same as
+# commandMeta set in config.yml or else the command won't work.
+#
+# Example on how to set the config.
+# Note: Please use tabs instead of spaces.
+#-------------------------------------------------------------------------------------------------------------------------------
+# example:               | Set the name of the crate.
+#  drops:                | List the items that can be received from the crate.
+#   - name: "G-Helmet"   | Custom name for the item. Use "§" for adding colors.
+#     id: 1              | ID of the reward.
+#     meta: 0            | Meta or Damage value of the Item.
+#     amount: 1          | The amount of Item that player receives.
+#     enchantments:      | Set enchants for items here. Both VanillaEnchantments and PiggyCustomEnchants are supported.
+#       protection:      | Name of enchant you wish to apply.
+#         level: 3       | The level for enchant.
+#       unbreaking:      | You can set multiple enchants as long as they are registered.
+#         level: 2       | NOTE: If you donot want enchants simply remove the enchantments heading.
+#     lore: "USE ME"     | Add a custom lore to the reward. Use "\n" for next line.
+#     commands:          | Add commands to execute when player wins a reward. Multiple commands supported.
+#     - "say hi"         | Use \"%PLAYER%\" to insert player name (with the quotes and slash).
+#     - "say test"       | Don't forget to mention the maxCommands in config.yml.
+#  block: "911:0"        | Set the block ID you want the crate to represent. Placing a chest on it will activate the crate.
+# ------------------------------------------------------------------------------------------------------------------------------
+  vote:
+    drops:
+      - name: "§l§eCúp Zeus §f[Rate: §bCommon§e]"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 10
+          unbreaking:
+            level: 10
+          fortune:
+            level: 5
+        lore: "§l§e→§f Đồ vật có thể tìm được khi quay Crate Vote\n§l§e→§f Không nên làm mất\n§l§e→§f Vote tại: §bbit.do§a/minetown1"
+      - name: "§l§eCúp Thor §f[Rate: §bUnCommon§e]"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 13
+          unbreaking:
+            level: 13
+          fortune:
+            level: 8
+        lore: "§l§e→§f Đồ vật có thể tìm được khi quay Crate Vote\n§l§e→§f Không nên làm mất\n§l§e→§f Vote tại: §bbit.do§a/minetown1"
+      - name: "Kim Cương"
+        id: 264
+        meta: 0
+        amount: 32
+        lore: "§l§e→§f Đồ vật nhận trong Crate§e ←"
+      - name: "Xương"
+        id: 352
+        meta: 0
+        amount: 16
+        lore: "§l§e→§f Đồ vật nhận trong Crate§e ←"
+      - name: "Gỗ"
+        id: 264
+        meta: 0
+        amount: 32
+        lore: "§l§e→§f Đồ vật nhận trong Crate§e ←"
+      - name: "Đèn hiệu"
+        id: 138
+        meta: 0
+        amount: 32
+        lore: "§l§e→§f Đồ vật nhận trong Crate§e ←"
+      - name: "Kiếm Kim Cương Không Có Enchant"
+        id: 276
+        meta: 0
+        amount: 32
+        lore: "§l§e→§f Đồ vật nhận trong Crate§e ←"
+      - name: "Vàng"
+        id: 266
+        meta: 0
+        amount: 32
+        lore: "§l§e→§f Đồ vật nhận trong Crate§e ←"
+    block: "173:0"
+  premium:
+    drops:
+      - name: "§l§eCúp Thor §f[Rate: §bUnCommon§e]"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 13
+          unbreaking:
+            level: 13
+          fortune:
+            level: 8
+          haste:
+            level: 5
+        lore: "§l§e→§f Đồ vật có thể tìm được khi quay Crate Vote\n§l§e→§f Không nên làm mất\n§l§e→§f Vote tại: §bbit.do§a/minetown1"
+    block: "42:0"
+  online:
+    drops:
+      - name: "Iron Ingot"
+        id: 265
+        meta: 0
+        amount: 10
+      - name: "Gold Ingot"
+        id: 266
+        meta: 0
+        amount: 10
+      - name: "Oak Wood"
+        id: 17
+        meta: 0
+        amount: 64
+    block: "41:0"
+...

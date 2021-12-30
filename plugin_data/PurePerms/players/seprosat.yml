@@ -1,0 +1,8 @@
+---
+userName: seprosat
+group: Guest
+permissions:
+- pocketmine.command.give
+worlds: []
+time: -1
+...

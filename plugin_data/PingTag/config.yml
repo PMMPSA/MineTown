@@ -1,0 +1,4 @@
+#§ for colors
+#{ping} for the players ping
+
+Format: "§a{ping}ms"

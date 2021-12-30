@@ -1,0 +1,2956 @@
+---
+custom:
+- name: "0"
+  a1:
+    id: 57
+    damage: 0
+    count: 5
+  a2:
+    id: 57
+    damage: 0
+    count: 5
+  a3:
+    id: 57
+    damage: 0
+    count: 5
+  a4:
+    id: 57
+    damage: 0
+    count: 5
+  a5:
+    id: 57
+    damage: 0
+    count: 5
+  a6:
+    id: 57
+    damage: 0
+    count: 5
+  b1:
+    id: 57
+    damage: 0
+    count: 5
+  b2:
+    id: 57
+    damage: 0
+    count: 5
+  b3:
+    id: 57
+    damage: 0
+    count: 5
+  b4:
+    id: 57
+    damage: 0
+    count: 5
+  b5:
+    id: 57
+    damage: 0
+    count: 5
+  b6:
+    id: 57
+    damage: 0
+    count: 5
+  c1:
+    id: 57
+    damage: 0
+    count: 5
+  c2:
+    id: 57
+    damage: 0
+    count: 5
+  c3:
+    id: 57
+    damage: 0
+    count: 5
+  c4:
+    id: 57
+    damage: 0
+    count: 5
+  c5:
+    id: 57
+    damage: 0
+    count: 5
+  c6:
+    id: 57
+    damage: 0
+    count: 5
+  d1:
+    id: 57
+    damage: 0
+    count: 5
+  d2:
+    id: 57
+    damage: 0
+    count: 5
+  d3:
+    id: 57
+    damage: 0
+    count: 5
+  d4:
+    id: 57
+    damage: 0
+    count: 5
+  d5:
+    id: 57
+    damage: 0
+    count: 5
+  d6:
+    id: 57
+    damage: 0
+    count: 5
+  e1:
+    id: 57
+    damage: 0
+    count: 5
+  e2:
+    id: 57
+    damage: 0
+    count: 5
+  e3:
+    id: 57
+    damage: 0
+    count: 5
+  e4:
+    id: 57
+    damage: 0
+    count: 5
+  e5:
+    id: 57
+    damage: 0
+    count: 5
+  e6:
+    id: 57
+    damage: 0
+    count: 5
+  f1:
+    id: 57
+    damage: 0
+    count: 5
+  f2:
+    id: 57
+    damage: 0
+    count: 5
+  f3:
+    id: 57
+    damage: 0
+    count: 5
+  f4:
+    id: 57
+    damage: 0
+    count: 5
+  f5:
+    id: 57
+    damage: 0
+    count: 5
+  f6:
+    id: 57
+    damage: 0
+    count: 5
+  result:
+    id: 349
+    damage: 0
+    count: 16
+- name: "1"
+  a1:
+    id: 57
+    damage: 0
+    count: 8
+  a2:
+    id: 57
+    damage: 0
+    count: 8
+  a3:
+    id: 57
+    damage: 0
+    count: 8
+  a4:
+    id: 57
+    damage: 0
+    count: 8
+  a5:
+    id: 57
+    damage: 0
+    count: 8
+  a6:
+    id: 57
+    damage: 0
+    count: 8
+  b1:
+    id: 57
+    damage: 0
+    count: 8
+  b2:
+    id: 57
+    damage: 0
+    count: 8
+  b3:
+    id: 57
+    damage: 0
+    count: 8
+  b4:
+    id: 57
+    damage: 0
+    count: 8
+  b5:
+    id: 57
+    damage: 0
+    count: 8
+  b6:
+    id: 57
+    damage: 0
+    count: 8
+  c1:
+    id: 57
+    damage: 0
+    count: 8
+  c2:
+    id: 57
+    damage: 0
+    count: 8
+  c3:
+    id: 57
+    damage: 0
+    count: 8
+  c4:
+    id: 57
+    damage: 0
+    count: 8
+  c5:
+    id: 57
+    damage: 0
+    count: 8
+  c6:
+    id: 57
+    damage: 0
+    count: 8
+  d1:
+    id: 57
+    damage: 0
+    count: 8
+  d2:
+    id: 57
+    damage: 0
+    count: 8
+  d3:
+    id: 57
+    damage: 0
+    count: 8
+  d4:
+    id: 57
+    damage: 0
+    count: 8
+  d5:
+    id: 57
+    damage: 0
+    count: 8
+  d6:
+    id: 57
+    damage: 0
+    count: 8
+  e1:
+    id: 57
+    damage: 0
+    count: 8
+  e2:
+    id: 57
+    damage: 0
+    count: 8
+  e3:
+    id: 57
+    damage: 0
+    count: 8
+  e4:
+    id: 57
+    damage: 0
+    count: 8
+  e5:
+    id: 57
+    damage: 0
+    count: 8
+  e6:
+    id: 57
+    damage: 0
+    count: 8
+  f1:
+    id: 57
+    damage: 0
+    count: 8
+  f2:
+    id: 57
+    damage: 0
+    count: 8
+  f3:
+    id: 57
+    damage: 0
+    count: 8
+  f4:
+    id: 57
+    damage: 0
+    count: 8
+  f5:
+    id: 57
+    damage: 0
+    count: 8
+  f6:
+    id: 57
+    damage: 0
+    count: 8
+  result:
+    id: 339
+    display_name: Job Key
+    keytype: job
+- name: "2"
+  a1:
+    id: 325
+    damage: 0
+    count: 5
+  a2:
+    id: 325
+    damage: 0
+    count: 5
+  a3:
+    id: 325
+    damage: 0
+    count: 5
+  a4:
+    id: 325
+    damage: 0
+    count: 5
+  a5:
+    id: 325
+    damage: 0
+    count: 5
+  a6:
+    id: 325
+    damage: 0
+    count: 5
+  b1:
+    id: 325
+    damage: 0
+    count: 5
+  b2:
+    id: 325
+    damage: 0
+    count: 5
+  b3:
+    id: 325
+    damage: 0
+    count: 5
+  b4:
+    id: 0
+  b5:
+    id: 0
+  b6:
+    id: 0
+  c1:
+    id: 0
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 0
+  d1:
+    id: 0
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 0
+  e1:
+    id: 0
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 0
+  f1:
+    id: 0
+  f2:
+    id: 0
+  f3:
+    id: 0
+  f4:
+    id: 0
+  f5:
+    id: 0
+  f6:
+    id: 0
+  result:
+    id: 80
+    damage: 0
+    count: 2
+- name: "3"
+  a1:
+    id: 325
+    damage: 0
+    count: 5
+  a2:
+    id: 325
+    damage: 0
+    count: 5
+  a3:
+    id: 325
+    damage: 0
+    count: 5
+  a4:
+    id: 325
+    damage: 0
+    count: 5
+  a5:
+    id: 325
+    damage: 0
+    count: 5
+  a6:
+    id: 325
+    damage: 0
+    count: 5
+  b1:
+    id: 325
+    damage: 0
+    count: 5
+  b2:
+    id: 325
+    damage: 0
+    count: 5
+  b3:
+    id: 325
+    damage: 0
+    count: 5
+  b4:
+    id: 325
+    damage: 0
+    count: 5
+  b5:
+    id: 325
+    damage: 0
+    count: 5
+  b6:
+    id: 325
+    damage: 0
+    count: 5
+  c1:
+    id: 0
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 0
+  d1:
+    id: 0
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 0
+  e1:
+    id: 0
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 0
+  f1:
+    id: 0
+  f2:
+    id: 0
+  f3:
+    id: 0
+  f4:
+    id: 0
+  f5:
+    id: 0
+  f6:
+    id: 0
+  result:
+    id: 79
+    damage: 0
+    count: 2
+- name: "4"
+  a1:
+    id: 325
+    damage: 0
+    count: 5
+  a2:
+    id: 325
+    damage: 0
+    count: 5
+  a3:
+    id: 325
+    damage: 0
+    count: 5
+  a4:
+    id: 325
+    damage: 0
+    count: 5
+  a5:
+    id: 325
+    damage: 0
+    count: 5
+  a6:
+    id: 325
+    damage: 0
+    count: 5
+  b1:
+    id: 0
+  b2:
+    id: 0
+  b3:
+    id: 0
+  b4:
+    id: 0
+  b5:
+    id: 0
+  b6:
+    id: 0
+  c1:
+    id: 0
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 0
+  d1:
+    id: 0
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 0
+  e1:
+    id: 0
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 0
+  f1:
+    id: 0
+  f2:
+    id: 0
+  f3:
+    id: 0
+  f4:
+    id: 0
+  f5:
+    id: 0
+  f6:
+    id: 0
+  result:
+    id: 332
+    damage: 0
+    count: 16
+- name: "5"
+  a1:
+    id: 332
+    damage: 0
+    count: 16
+  a2:
+    id: 332
+    damage: 0
+    count: 16
+  a3:
+    id: 332
+    damage: 0
+    count: 16
+  a4:
+    id: 332
+    damage: 0
+    count: 16
+  a5:
+    id: 332
+    damage: 0
+    count: 16
+  a6:
+    id: 332
+    damage: 0
+    count: 16
+  b1:
+    id: 332
+    damage: 0
+    count: 16
+  b2:
+    id: 80
+    damage: 0
+    count: 1
+  b3:
+    id: 80
+    damage: 0
+    count: 1
+  b4:
+    id: 80
+    damage: 0
+    count: 1
+  b5:
+    id: 80
+    damage: 0
+    count: 1
+  b6:
+    id: 332
+    damage: 0
+    count: 16
+  c1:
+    id: 332
+    damage: 0
+    count: 16
+  c2:
+    id: 80
+    damage: 0
+    count: 1
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 80
+    damage: 0
+    count: 1
+  c6:
+    id: 332
+    damage: 0
+    count: 16
+  d1:
+    id: 332
+    damage: 0
+    count: 16
+  d2:
+    id: 80
+    damage: 0
+    count: 1
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 80
+    damage: 0
+    count: 1
+  d6:
+    id: 332
+    damage: 0
+    count: 16
+  e1:
+    id: 332
+    damage: 0
+    count: 16
+  e2:
+    id: 80
+    damage: 0
+    count: 1
+  e3:
+    id: 80
+    damage: 0
+    count: 1
+  e4:
+    id: 80
+    damage: 0
+    count: 1
+  e5:
+    id: 80
+    damage: 0
+    count: 1
+  e6:
+    id: 332
+    damage: 0
+    count: 16
+  f1:
+    id: 332
+    damage: 0
+    count: 16
+  f2:
+    id: 332
+    damage: 0
+    count: 16
+  f3:
+    id: 332
+    damage: 0
+    count: 16
+  f4:
+    id: 332
+    damage: 0
+    count: 16
+  f5:
+    id: 332
+    damage: 0
+    count: 16
+  f6:
+    id: 332
+    damage: 0
+    count: 16
+  result:
+    id: 80
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Tuyết Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Tuyết Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+- name: "6"
+  a1:
+    id: 332
+    damage: 0
+    count: 16
+  a2:
+    id: 332
+    damage: 0
+    count: 16
+  a3:
+    id: 332
+    damage: 0
+    count: 16
+  a4:
+    id: 332
+    damage: 0
+    count: 16
+  a5:
+    id: 332
+    damage: 0
+    count: 16
+  a6:
+    id: 332
+    damage: 0
+    count: 16
+  b1:
+    id: 332
+    damage: 0
+    count: 16
+  b2:
+    id: 80
+    damage: 0
+    count: 1
+  b3:
+    id: 80
+    damage: 0
+    count: 1
+  b4:
+    id: 80
+    damage: 0
+    count: 1
+  b5:
+    id: 80
+    damage: 0
+    count: 1
+  b6:
+    id: 332
+    damage: 0
+    count: 16
+  c1:
+    id: 332
+    damage: 0
+    count: 16
+  c2:
+    id: 80
+    damage: 0
+    count: 1
+  c3:
+    id: 79
+    damage: 0
+    count: 10
+  c4:
+    id: 79
+    damage: 0
+    count: 10
+  c5:
+    id: 80
+    damage: 0
+    count: 1
+  c6:
+    id: 332
+    damage: 0
+    count: 16
+  d1:
+    id: 332
+    damage: 0
+    count: 16
+  d2:
+    id: 80
+    damage: 0
+    count: 1
+  d3:
+    id: 79
+    damage: 0
+    count: 10
+  d4:
+    id: 79
+    damage: 0
+    count: 10
+  d5:
+    id: 80
+    damage: 0
+    count: 1
+  d6:
+    id: 332
+    damage: 0
+    count: 16
+  e1:
+    id: 332
+    damage: 0
+    count: 16
+  e2:
+    id: 80
+    damage: 0
+    count: 1
+  e3:
+    id: 80
+    damage: 0
+    count: 1
+  e4:
+    id: 80
+    damage: 0
+    count: 1
+  e5:
+    id: 80
+    damage: 0
+    count: 1
+  e6:
+    id: 332
+    damage: 0
+    count: 16
+  f1:
+    id: 332
+    damage: 0
+    count: 16
+  f2:
+    id: 332
+    damage: 0
+    count: 16
+  f3:
+    id: 332
+    damage: 0
+    count: 16
+  f4:
+    id: 332
+    damage: 0
+    count: 16
+  f5:
+    id: 332
+    damage: 0
+    count: 16
+  f6:
+    id: 332
+    damage: 0
+    count: 16
+  result:
+    id: 79
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Băng Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Băng Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+- name: "7"
+  a1:
+    id: 338
+    damage: 0
+    count: 32
+  a2:
+    id: 338
+    damage: 0
+    count: 32
+  a3:
+    id: 338
+    damage: 0
+    count: 32
+  a4:
+    id: 338
+    damage: 0
+    count: 32
+  a5:
+    id: 338
+    damage: 0
+    count: 32
+  a6:
+    id: 338
+    damage: 0
+    count: 32
+  b1:
+    id: 338
+    damage: 0
+    count: 32
+  b2:
+    id: 353
+    damage: 0
+    count: 1
+  b3:
+    id: 353
+    damage: 0
+    count: 1
+  b4:
+    id: 353
+    damage: 0
+    count: 1
+  b5:
+    id: 353
+    damage: 0
+    count: 1
+  b6:
+    id: 338
+    damage: 0
+    count: 32
+  c1:
+    id: 338
+    damage: 0
+    count: 32
+  c2:
+    id: 353
+    damage: 0
+    count: 1
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 353
+    damage: 0
+    count: 1
+  c6:
+    id: 338
+    damage: 0
+    count: 32
+  d1:
+    id: 338
+    damage: 0
+    count: 32
+  d2:
+    id: 353
+    damage: 0
+    count: 1
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 353
+    damage: 0
+    count: 1
+  d6:
+    id: 338
+    damage: 0
+    count: 32
+  e1:
+    id: 338
+    damage: 0
+    count: 32
+  e2:
+    id: 353
+    damage: 0
+    count: 1
+  e3:
+    id: 353
+    damage: 0
+    count: 1
+  e4:
+    id: 353
+    damage: 0
+    count: 1
+  e5:
+    id: 353
+    damage: 0
+    count: 1
+  e6:
+    id: 338
+    damage: 0
+    count: 32
+  f1:
+    id: 338
+    damage: 0
+    count: 32
+  f2:
+    id: 338
+    damage: 0
+    count: 32
+  f3:
+    id: 338
+    damage: 0
+    count: 32
+  f4:
+    id: 338
+    damage: 0
+    count: 32
+  f5:
+    id: 338
+    damage: 0
+    count: 32
+  f6:
+    id: 338
+    damage: 0
+    count: 32
+  result:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+- name: "8"
+  a1:
+    id: 54
+    damage: 0
+    count: 10
+  a2:
+    id: 54
+    damage: 0
+    count: 10
+  a3:
+    id: 54
+    damage: 0
+    count: 10
+  a4:
+    id: 54
+    damage: 0
+    count: 10
+  a5:
+    id: 54
+    damage: 0
+    count: 10
+  a6:
+    id: 54
+    damage: 0
+    count: 10
+  b1:
+    id: 54
+    damage: 0
+    count: 10
+  b2:
+    id: 0
+  b3:
+    id: 0
+  b4:
+    id: 0
+  b5:
+    id: 0
+  b6:
+    id: 54
+    damage: 0
+    count: 10
+  c1:
+    id: 54
+    damage: 0
+    count: 10
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 54
+    damage: 0
+    count: 10
+  d1:
+    id: 54
+    damage: 0
+    count: 10
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 54
+    damage: 0
+    count: 10
+  e1:
+    id: 54
+    damage: 0
+    count: 10
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 54
+    damage: 0
+    count: 10
+  f1:
+    id: 54
+    damage: 0
+    count: 10
+  f2:
+    id: 54
+    damage: 0
+    count: 10
+  f3:
+    id: 54
+    damage: 0
+    count: 10
+  f4:
+    id: 54
+    damage: 0
+    count: 10
+  f5:
+    id: 54
+    damage: 0
+    count: 10
+  f6:
+    id: 54
+    damage: 0
+    count: 10
+  result:
+    id: 54
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Hộp Quà Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Hộp Quà Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+- name: "9"
+  a1:
+    id: 349
+    damage: 0
+    count: 30
+  a2:
+    id: 349
+    damage: 0
+    count: 30
+  a3:
+    id: 349
+    damage: 0
+    count: 30
+  a4:
+    id: 349
+    damage: 0
+    count: 30
+  a5:
+    id: 349
+    damage: 0
+    count: 30
+  a6:
+    id: 349
+    damage: 0
+    count: 30
+  b1:
+    id: 349
+    damage: 0
+    count: 30
+  b2:
+    id: 349
+    damage: 0
+    count: 30
+  b3:
+    id: 349
+    damage: 0
+    count: 30
+  b4:
+    id: 349
+    damage: 0
+    count: 30
+  b5:
+    id: 349
+    damage: 0
+    count: 30
+  b6:
+    id: 349
+    damage: 0
+    count: 30
+  c1:
+    id: 349
+    damage: 0
+    count: 30
+  c2:
+    id: 349
+    damage: 0
+    count: 30
+  c3:
+    id: 349
+    damage: 0
+    count: 30
+  c4:
+    id: 349
+    damage: 0
+    count: 30
+  c5:
+    id: 349
+    damage: 0
+    count: 30
+  c6:
+    id: 349
+    damage: 0
+    count: 30
+  d1:
+    id: 349
+    damage: 0
+    count: 30
+  d2:
+    id: 349
+    damage: 0
+    count: 30
+  d3:
+    id: 349
+    damage: 0
+    count: 30
+  d4:
+    id: 349
+    damage: 0
+    count: 30
+  d5:
+    id: 349
+    damage: 0
+    count: 30
+  d6:
+    id: 349
+    damage: 0
+    count: 30
+  e1:
+    id: 349
+    damage: 0
+    count: 30
+  e2:
+    id: 349
+    damage: 0
+    count: 30
+  e3:
+    id: 349
+    damage: 0
+    count: 30
+  e4:
+    id: 349
+    damage: 0
+    count: 30
+  e5:
+    id: 349
+    damage: 0
+    count: 30
+  e6:
+    id: 349
+    damage: 0
+    count: 30
+  f1:
+    id: 349
+    damage: 0
+    count: 30
+  f2:
+    id: 349
+    damage: 0
+    count: 30
+  f3:
+    id: 349
+    damage: 0
+    count: 30
+  f4:
+    id: 349
+    damage: 0
+    count: 30
+  f5:
+    id: 349
+    damage: 0
+    count: 30
+  f6:
+    id: 349
+    damage: 0
+    count: 30
+  result:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+- name: "10"
+  a1:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  a2:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  a3:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  a4:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  a5:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  a6:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  b1:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  b2:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  b3:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  b4:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  b5:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  b6:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  c1:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  c2:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  c3:
+    id: 80
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Tuyết Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Tuyết Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  c4:
+    id: 80
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Tuyết Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Tuyết Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  c5:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  c6:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  d1:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  d2:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  d3:
+    id: 79
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Băng Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Băng Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  d4:
+    id: 79
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Băng Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Băng Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  d5:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  d6:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  e1:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  e2:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  e3:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  e4:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  e5:
+    id: 260
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Kẹo Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Kẹo Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+    enchants:
+      17: 32767
+  e6:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  f1:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  f2:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  f3:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  f4:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  f5:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  f6:
+    id: 350
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Cá Tuyết§l§e │
+    lore:
+    - |-
+      §b- §r Cá Tuyết§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  result:
+    id: 263
+    damage: 0
+    count: 1
+    display_name: Than Hoạt Tính Đuổi Côn Trùng
+    enchants:
+      17: 32767
+- name: "11"
+  a1:
+    id: 263
+    damage: 0
+    count: 1
+    display_name: Than Hoạt Tính Đuổi Côn Trùng
+    enchants:
+      17: 32767
+  a2:
+    id: 433
+    damage: 0
+    count: 1
+    display_name: §l§e┃§a Mảnh Miner §e┃
+    lore:
+    - |-
+      §f-§e Loại:§f Mảnh Ghép -
+      §c--------------------
+      §fĐộ hiếm§l: §r§aCực hiếm
+      §c--------------------
+      §f-§d Tác dụng §f-
+      §dDùng để Craft đồ trong §aCustomCraft
+    enchants:
+      17: 32767
+  a3:
+    id: 276
+  a4:
+    id: 0
+  a5:
+    id: 0
+  a6:
+    id: 0
+  b1:
+    id: 0
+  b2:
+    id: 0
+  b3:
+    id: 0
+  b4:
+    id: 0
+  b5:
+    id: 0
+  b6:
+    id: 0
+  c1:
+    id: 0
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 0
+  d1:
+    id: 0
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 0
+  e1:
+    id: 0
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 0
+  f1:
+    id: 0
+  f2:
+    id: 0
+  f3:
+    id: 0
+  f4:
+    id: 0
+  f5:
+    id: 0
+  f6:
+    id: 0
+  result:
+    id: 276
+    damage: 0
+    count: 1
+    display_name: §l§e||| §cChristmas §aSword§e |||
+    lore:
+    - |-
+      §l§e||| §cChristmas §aSword§e |||§r (#921)
+      §oChristmas§a Sword
+      -§e Loại:§e Vũ khí chính§f -
+    - §c--------------------
+    - 'Sát thương: §a7.0 §f→§a Tự nhìn'
+    - §c--------------------
+    - -§d Buff§f -
+    - '§dSấm sét: I'
+    - '§dĐộc dược: II'
+    - '§dBật lùi: I'
+    - §c--------------------
+    - -§e Kỹ Năng§f -
+    - §aTự động sửa chửa
+    - §aCân mọi đối thủ PvP
+    - §c--------------------
+    - '- Vật phẩm có độ bền 100'
+    - '- Vật phẩm thuộc loại:§d Hiếm'
+    - '- Đánh giá:§a 7/10'
+    - '- By: [Thợ Rèn]§a GreenJaJot'
+    enchants:
+      9: 20
+      12: 2
+      13: 5
+      17: 100
+      103: 1
+      104: 2
+      123: 1
+- name: "12"
+  a1:
+    id: 263
+    damage: 0
+    count: 1
+    display_name: Than Hoạt Tính Đuổi Côn Trùng
+    enchants:
+      17: 32767
+  a2:
+    id: 433
+    damage: 0
+    count: 1
+    display_name: §l§e┃§a Mảnh Miner §e┃
+    lore:
+    - |-
+      §f-§e Loại:§f Mảnh Ghép -
+      §c--------------------
+      §fĐộ hiếm§l: §r§aCực hiếm
+      §c--------------------
+      §f-§d Tác dụng §f-
+      §dDùng để Craft đồ trong §aCustomCraft
+    enchants:
+      17: 32767
+  a3:
+    id: 278
+  a4:
+    id: 0
+  a5:
+    id: 0
+  a6:
+    id: 0
+  b1:
+    id: 0
+  b2:
+    id: 0
+  b3:
+    id: 0
+  b4:
+    id: 0
+  b5:
+    id: 0
+  b6:
+    id: 0
+  c1:
+    id: 0
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 0
+  d1:
+    id: 0
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 0
+  e1:
+    id: 0
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 0
+  f1:
+    id: 0
+  f2:
+    id: 0
+  f3:
+    id: 0
+  f4:
+    id: 0
+  f5:
+    id: 0
+  f6:
+    id: 0
+  result:
+    id: 278
+    damage: 0
+    count: 1
+    display_name: §l§e||| §cChristmas §aPickaxe§e |||
+    lore:
+    - |-
+      §l§e||| §cChristmas §aPickaxe§e |||§r (#188)
+      §oChristmas§a Pickaxe
+      -§e Loại:§e Dụng cụ chính§f -
+    - §c--------------------
+    - -§d Buff§f -
+    - '§dHaste: II'
+    - '§dAutorepair: I'
+    - §c--------------------
+    - -§e Kỹ Năng§f -
+    - §aTự động sửa chửa
+    - §aGiúp bạn farm tiền
+    - §c--------------------
+    - '- Vật phẩm có độ bền 100'
+    - '- Vật phẩm thuộc loại:§d Hiếm'
+    - '- Đánh giá:§a 7/10'
+    - '- By: [Thợ Mài]§a SeoRoSat'
+    enchants:
+      15: 30
+      17: 100
+      18: 15
+      108: 1
+      207: 2
+- name: "13"
+  a1:
+    id: 263
+    damage: 0
+    count: 1
+    display_name: Than Hoạt Tính Đuổi Côn Trùng
+    enchants:
+      17: 32767
+  a2:
+    id: 433
+    damage: 0
+    count: 1
+    display_name: §l§e┃§a Mảnh Miner §e┃
+    lore:
+    - |-
+      §f-§e Loại:§f Mảnh Ghép -
+      §c--------------------
+      §fĐộ hiếm§l: §r§aCực hiếm
+      §c--------------------
+      §f-§d Tác dụng §f-
+      §dDùng để Craft đồ trong §aCustomCraft
+    enchants:
+      17: 32767
+  a3:
+    id: 277
+  a4:
+    id: 0
+  a5:
+    id: 0
+  a6:
+    id: 0
+  b1:
+    id: 0
+  b2:
+    id: 0
+  b3:
+    id: 0
+  b4:
+    id: 0
+  b5:
+    id: 0
+  b6:
+    id: 0
+  c1:
+    id: 0
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 0
+  d1:
+    id: 0
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 0
+  e1:
+    id: 0
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 0
+  f1:
+    id: 0
+  f2:
+    id: 0
+  f3:
+    id: 0
+  f4:
+    id: 0
+  f5:
+    id: 0
+  f6:
+    id: 0
+  result:
+    id: 277
+    damage: 0
+    count: 1
+    display_name: §l§e||| §cChristmas §aShovel§e |||
+    lore:
+    - |-
+      §l§e||| §cChristmas §aShovel§e |||§r (#541)
+      §oChristmas§a Shovel
+      -§e Loại:§e Dụng cụ phụ§f -
+    - §c--------------------
+    - -§d Buff§f -
+    - '§dAutorepair: I'
+    - §c--------------------
+    - -§e Kỹ Năng§f -
+    - §aTự động sửa chửa
+    - §c--------------------
+    - '- Vật phẩm có độ bền 100'
+    - '- Vật phẩm thuộc loại:§d Hiếm'
+    - '- Đánh giá:§a 5/10'
+    - '- By: [Thợ Mài]§a TuiDepTraii'
+    enchants:
+      15: 30
+      17: 100
+      18: 10
+      207: 1
+- name: "14"
+  a1:
+    id: 263
+    damage: 0
+    count: 2
+    display_name: Than Hoạt Tính Đuổi Côn Trùng
+    enchants:
+      17: 32767
+  a2:
+    id: 433
+    damage: 0
+    count: 1
+    display_name: §l§e┃§a Mảnh Miner §e┃
+    lore:
+    - |-
+      §f-§e Loại:§f Mảnh Ghép -
+      §c--------------------
+      §fĐộ hiếm§l: §r§aCực hiếm
+      §c--------------------
+      §f-§d Tác dụng §f-
+      §dDùng để Craft đồ trong §aCustomCraft
+    enchants:
+      17: 32767
+  a3:
+    id: 310
+  a4:
+    id: 0
+  a5:
+    id: 0
+  a6:
+    id: 0
+  b1:
+    id: 0
+  b2:
+    id: 0
+  b3:
+    id: 0
+  b4:
+    id: 0
+  b5:
+    id: 0
+  b6:
+    id: 0
+  c1:
+    id: 0
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 0
+  d1:
+    id: 0
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 0
+  e1:
+    id: 0
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 0
+  f1:
+    id: 0
+  f2:
+    id: 0
+  f3:
+    id: 0
+  f4:
+    id: 0
+  f5:
+    id: 0
+  f6:
+    id: 0
+  result:
+    id: 310
+    damage: 0
+    count: 1
+    display_name: §l§e||| §cChristmas §aHelmet§e |||
+    lore:
+    - |-
+      §l§e||| §cChristmas §aHelmet§e |||§r (#121)
+      §oChristmas§a Helmet
+      -§e Loại:§e Giáp§f -
+    - §c--------------------
+    - -§d Buff§f -
+    - '§dTank: II'
+    - '§dHeavy: I'
+    - '§dOverload: V'
+    - '§dAutorepair: I'
+    - §c--------------------
+    - -§e Kỹ Năng§f -
+    - §aTự động sửa chửa
+    - §aTrâu bò trong PvP
+    - §c--------------------
+    - '- Vật phẩm có độ bền 100'
+    - '- Vật phẩm thuộc loại:§d Cực Hiếm'
+    - '- Đánh giá:§a 9/10'
+    - '- By: [Thợ May]§a TuiDepTraii'
+    enchants:
+      0: 30
+      1: 30
+      2: 30
+      3: 30
+      4: 30
+      17: 100
+      108: 1
+      419: 5
+      421: 2
+      422: 1
+- name: "15"
+  a1:
+    id: 263
+    damage: 0
+    count: 2
+    display_name: Than Hoạt Tính Đuổi Côn Trùng
+    enchants:
+      17: 32767
+  a2:
+    id: 433
+    damage: 0
+    count: 1
+    display_name: §l§e┃§a Mảnh Miner §e┃
+    lore:
+    - |-
+      §f-§e Loại:§f Mảnh Ghép -
+      §c--------------------
+      §fĐộ hiếm§l: §r§aCực hiếm
+      §c--------------------
+      §f-§d Tác dụng §f-
+      §dDùng để Craft đồ trong §aCustomCraft
+    enchants:
+      17: 32767
+  a3:
+    id: 311
+  a4:
+    id: 0
+  a5:
+    id: 0
+  a6:
+    id: 0
+  b1:
+    id: 0
+  b2:
+    id: 0
+  b3:
+    id: 0
+  b4:
+    id: 0
+  b5:
+    id: 0
+  b6:
+    id: 0
+  c1:
+    id: 0
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 0
+  d1:
+    id: 0
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 0
+  e1:
+    id: 0
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 0
+  f1:
+    id: 0
+  f2:
+    id: 0
+  f3:
+    id: 0
+  f4:
+    id: 0
+  f5:
+    id: 0
+  f6:
+    id: 0
+  result:
+    id: 311
+    damage: 0
+    count: 1
+    display_name: §l§e||| §cChristmas §aChestplate§e |||
+    lore:
+    - |-
+      §l§e||| §cChristmas §aChestplate§e |||§r (#424)
+      §oChristmas§a Chestplate
+      -§e Loại:§e Giáp§f -
+    - §c--------------------
+    - -§d Buff§f -
+    - '§dTank: II'
+    - '§dHeavy: I'
+    - '§dOverload: V'
+    - '§dAutorepair: I'
+    - §c--------------------
+    - -§e Kỹ Năng§f -
+    - §aTự động sửa chửa
+    - §aTrâu bò trong PvP
+    - §c--------------------
+    - '- Vật phẩm có độ bền 100'
+    - '- Vật phẩm thuộc loại:§d Cực Hiếm'
+    - '- Đánh giá:§a 9/10'
+    - '- By: [Thợ May]§a TuiDepTraii'
+    enchants:
+      0: 30
+      1: 30
+      2: 30
+      3: 30
+      4: 30
+      17: 100
+      108: 1
+      419: 5
+      421: 2
+      422: 1
+- name: "16"
+  a1:
+    id: 263
+    damage: 0
+    count: 2
+    display_name: Than Hoạt Tính Đuổi Côn Trùng
+    enchants:
+      17: 32767
+  a2:
+    id: 433
+    damage: 0
+    count: 1
+    display_name: §l§e┃§a Mảnh Miner §e┃
+    lore:
+    - |-
+      §f-§e Loại:§f Mảnh Ghép -
+      §c--------------------
+      §fĐộ hiếm§l: §r§aCực hiếm
+      §c--------------------
+      §f-§d Tác dụng §f-
+      §dDùng để Craft đồ trong §aCustomCraft
+    enchants:
+      17: 32767
+  a3:
+    id: 312
+  a4:
+    id: 0
+  a5:
+    id: 0
+  a6:
+    id: 0
+  b1:
+    id: 0
+  b2:
+    id: 0
+  b3:
+    id: 0
+  b4:
+    id: 0
+  b5:
+    id: 0
+  b6:
+    id: 0
+  c1:
+    id: 0
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 0
+  d1:
+    id: 0
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 0
+  e1:
+    id: 0
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 0
+  f1:
+    id: 0
+  f2:
+    id: 0
+  f3:
+    id: 0
+  f4:
+    id: 0
+  f5:
+    id: 0
+  f6:
+    id: 0
+  result:
+    id: 312
+    damage: 0
+    count: 1
+    display_name: §l§e||| §cChristmas §aLeggings§e |||
+    lore:
+    - |-
+      §l§e||| §cChristmas §aLeggings§e |||§r (#424)
+      §oChristmas§a Leggings
+      -§e Loại:§e Giáp§f -
+    - §c--------------------
+    - -§d Buff§f -
+    - '§dTank: II'
+    - '§dHeavy: I'
+    - '§dOverload: V'
+    - '§dAutorepair: I'
+    - §c--------------------
+    - -§e Kỹ Năng§f -
+    - §aTự động sửa chửa
+    - §aTrâu bò trong PvP
+    - §c--------------------
+    - '- Vật phẩm có độ bền 100'
+    - '- Vật phẩm thuộc loại:§d Cực Hiếm'
+    - '- Đánh giá:§a 9/10'
+    - '- By: [Thợ May]§a TuiDepTraii'
+    enchants:
+      0: 30
+      1: 30
+      2: 30
+      3: 30
+      4: 30
+      17: 100
+      108: 1
+      419: 5
+      421: 2
+      422: 1
+- name: "17"
+  a1:
+    id: 263
+    damage: 0
+    count: 2
+    display_name: Than Hoạt Tính Đuổi Côn Trùng
+    enchants:
+      17: 32767
+  a2:
+    id: 433
+    damage: 0
+    count: 1
+    display_name: §l§e┃§a Mảnh Miner §e┃
+    lore:
+    - |-
+      §f-§e Loại:§f Mảnh Ghép -
+      §c--------------------
+      §fĐộ hiếm§l: §r§aCực hiếm
+      §c--------------------
+      §f-§d Tác dụng §f-
+      §dDùng để Craft đồ trong §aCustomCraft
+    enchants:
+      17: 32767
+  a3:
+    id: 313
+  a4:
+    id: 0
+  a5:
+    id: 0
+  a6:
+    id: 0
+  b1:
+    id: 0
+  b2:
+    id: 0
+  b3:
+    id: 0
+  b4:
+    id: 0
+  b5:
+    id: 0
+  b6:
+    id: 0
+  c1:
+    id: 0
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 0
+  d1:
+    id: 0
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 0
+  e1:
+    id: 0
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 0
+  f1:
+    id: 0
+  f2:
+    id: 0
+  f3:
+    id: 0
+  f4:
+    id: 0
+  f5:
+    id: 0
+  f6:
+    id: 0
+  result:
+    id: 313
+    damage: 0
+    count: 1
+    display_name: §l§e||| §cChristmas §aBoots§e |||
+    lore:
+    - |-
+      §l§e||| §cChristmas §aBoots§e |||§r (#424)
+      §oChristmas§a Leggings
+      -§e Loại:§e Giáp§f -
+    - §c--------------------
+    - -§d Buff§f -
+    - '§dTank: II'
+    - '§dHeavy: I'
+    - '§dOverload: V'
+    - '§dAutorepair: I'
+    - '§dJetpack: I'
+    - §c--------------------
+    - -§e Kỹ Năng§f -
+    - §aTự động sửa chửa
+    - §aTrâu bò trong PvP
+    - §aNhấn Shift để bay
+    - §c--------------------
+    - '- Vật phẩm có độ bền 100'
+    - '- Vật phẩm thuộc loại:§d Cực Hiếm'
+    - '- Đánh giá:§a 9/10'
+    - '- By: [Thợ May]§a TuiDepTraii'
+    enchants:
+      0: 30
+      1: 30
+      2: 30
+      3: 30
+      4: 30
+      17: 100
+      108: 1
+      419: 5
+      421: 2
+      422: 1
+      503: 1
+- name: Chest
+  a1:
+    id: 54
+    damage: 0
+    count: 1
+    display_name: §l§e│§r Hộp Quà Giáng Sinh§l§e │
+    lore:
+    - |-
+      §b- §r Hộp Quà Giáng Sinh§b -
+
+      §f-§e Loại:§f Item Event §f-
+      §c--------------------
+      §f-§d Công Dụng §f-
+      §dCraft Vật Phẩm Event
+      §c--------------------
+      - Có độ bền §evĩnh viễn
+      - Hộp quà có thể mở vào ngày 28/12
+    enchants:
+      17: 32767
+  a2:
+    id: 0
+  a3:
+    id: 0
+  a4:
+    id: 0
+  a5:
+    id: 0
+  a6:
+    id: 0
+  b1:
+    id: 0
+  b2:
+    id: 0
+  b3:
+    id: 0
+  b4:
+    id: 0
+  b5:
+    id: 0
+  b6:
+    id: 0
+  c1:
+    id: 0
+  c2:
+    id: 0
+  c3:
+    id: 0
+  c4:
+    id: 0
+  c5:
+    id: 0
+  c6:
+    id: 0
+  d1:
+    id: 0
+  d2:
+    id: 0
+  d3:
+    id: 0
+  d4:
+    id: 0
+  d5:
+    id: 0
+  d6:
+    id: 0
+  e1:
+    id: 0
+  e2:
+    id: 0
+  e3:
+    id: 0
+  e4:
+    id: 0
+  e5:
+    id: 0
+  e6:
+    id: 0
+  f1:
+    id: 0
+  f2:
+    id: 0
+  f3:
+    id: 0
+  f4:
+    id: 0
+  f5:
+    id: 0
+  f6:
+    id: 0
+  result:
+    id: 444
+    damage: 0
+    count: 1
+...

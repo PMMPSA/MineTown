@@ -1,0 +1,41 @@
+name: PointAPI
+main: onebone\pointapi\PointAPI
+api: [3.0.0]
+version: 2.0.9
+author: onebone | Djt Mẹ Thằng Lozz
+permissions:
+ pointapi.*:
+  default: op
+  description: Allows to control all of functions in PointAPI
+  children:
+   pointapi.command.*:
+    default: op
+    description: Allows to use all of commands in PointAPI
+    children:
+     pointapi.command.setmcoin:
+      default: op
+      description: Allows to set player's point
+     pointapi.command.mymcoin:
+      description: Allows player to see his/her point
+      default: op
+     pointapi.command.givemcoin:
+      description: Allows player to give point to others
+      default: op
+     pointapi.command.paymcoin:
+      description: Allows player to pay to someone
+      default: true
+     pointapi.command.seemcoin:
+      description: Allows player to see others' point
+      default: true
+     pointapi.command.setlangm:
+      description: Allows player to set his/her language
+      default: true
+     pointapi.command.topmcoin:
+      description: Allows player to see top point list
+      default: true
+     pointapi.command.mystatusm:
+      description: Allows player to see his/her financial status
+      default: true
+     pointapi.command.takemcoin:
+      description: Allows player to take point from others
+      default: op

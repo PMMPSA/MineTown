@@ -1,0 +1,66 @@
+---
+# Cài đặt kiểm duyệt
+censor:
+ # Cho phép kiểm duyệt
+ enabled: true
+ # Hãy để người chơi có quyền chatcensor.bypass.censor bỏ qua hạn chế này
+ allow-bypassing: true
+ # Kiểm tra các từ xấu bên trong các từ (có thể làm chậm máy chủ của bạn một chút)
+ advanced-mode: false
+ # Kiểm tra lệnh
+ check-commands: false
+ # Đăng nhập tin nhắn cho người chơi
+ log-to-player: true
+ # Chặn các tin nhắn có chứa URL (một tin nhắn sẽ được gửi đến trình phát nếu tính năng đăng nhập vào trình phát)
+ block-urls: true
+ # Chặn các tin nhắn có chứa địa chỉ IP (một tin nhắn sẽ được gửi đến trình phát nếu tính năng đăng nhập vào trình phát)
+ block-ips: true
+# Cài đặt chống viết in hoa
+anti-caps:
+ # Kích hoạt tính năng chống viết in hoa
+ enabled: false
+ # Hãy để người chơi có quyền chatcensor.bypass.anti-caps bỏ qua hạn chế này
+ allow-bypassing: false
+ # Đăng nhập tin nhắn cho người chơi
+ log-to-player: true
+ # Chặn tin nhắn (nếu tin nhắn chặn bị vô hiệu hóa, tin nhắn sẽ được chuyển đổi thành chữ thường)
+ block-message: true
+# Cài đặt chống spam
+anti-spam:
+ # Kích hoạt tính năng chống spam
+ enabled: true
+ # Hãy để người chơi có quyền chatcensor.bypass.anti-spam bỏ qua hạn chế này
+ allow-bypassing: false
+ # Đăng nhập tin nhắn cho người chơi
+ log-to-player: true
+ # Chế độ kiểm tra spam (0 = cùng một thông điệp không thể lặp lại, 1 = kiểm tra thư rác bị trì hoãn, 2 = cả hai)
+ mode: 1
+ # Thời gian tin nhắn tiếp theo (tính bằng giây)
+ delay: 3
+# Cài đặt Mute/Unmute
+mute:
+ # Đăng nhập tin nhắn mute cho người chơi
+ log-mute: true
+ # Đăng nhập tin nhắn unmute cho người chơi
+ log-unmute: true
+ # Đăng nhập tin nhắn cho người chơi
+ log-to-player: true
+ # Thời gian mute mặc định
+ time: "30m"
+# Cài đặt kiểm tra ký tự / tin nhắn
+char-check:
+ # Cho phép kiểm tra ký tự / tin nhắn
+ enabled: true
+ # Hãy để người chơi có quyền chatcensor.bypass.char-check bỏ qua hạn chế này
+ allow-bypassing: false
+ # Đăng nhập tin nhắn cho người chơi
+ log-to-player: true
+ # Độ dài tin nhắn tối đa (được đặt thành 0 để tắt tính năng này)
+ max-length: 0
+ # Cho phép dấu gạch chéo ngược trong tin nhắn
+ allow-backslash: false
+ # Các ký tự được phép trong tin nhắn (được đặt thành "" để tắt tính năng này)
+ allowed-chars: ""
+ # Các ký tự không được phép trong tin nhắn (được đặt thành "" để tắt tính năng này)
+ unallowed-chars: ""
+...

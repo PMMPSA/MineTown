@@ -1,0 +1,124 @@
+---
+# Dont Change this
+
+version: "0.1"
+
+# Hỗ Trợ UI
+# Button: "{NAME} {PRICE}$"
+Button: "§e• §c{NAME} §e•"
+slider-title: "\n§l§a§e• §cLevel: §e"
+messages:
+  label: "§l§a§e• §c{PRICE} §eXu §f/ §c1 Level"
+
+shop:
+# ID ENCHANT 0
+- name: Protection (Bảo Vệ)
+  enchantment: 0
+  price: 10000
+  max-level: 5
+# ID ENCHANT 1
+- name: Fire Protection (Bảo Vệ Khỏi Lửa)
+  enchantment: 1
+  price: 10000
+  max-level: 50
+# ID ENCHANT 2
+- name: Feather Falling (Rơi Nhẹ Như Long Chim)
+  enchantment: 2
+  price: 10000
+  max-level: 50
+# ID ENCHANT 3
+- name: Blast Protection (Bảo Vệ Khỏi Vụ Nổ)
+  enchantment: 3
+  price: 10000
+  max-level: 50
+# ID ENCHANT 4
+- name: Projectile Protection (Bảo Vệ Khỏi Bị Bắn)
+  enchantment: 4
+  price: 10000
+  max-level: 50
+# ID ENCHANT 5
+- name: Thorns (Gai)
+  enchantment: 5
+  price: 10000
+  max-level: 5
+# ID ENCHANT 6
+- name: Respiration (Hô Hấp)
+  enchantment: 6
+  price: 10000
+  max-level: 50
+# ID ENCHANT 9
+- name: Sharpness (Sắt Bén)
+  enchantment: 9
+  price: 10000
+  max-level: 5
+# ID ENCHANT 10
+- name: Smite (Hại Thây Ma)
+  enchantment: 10
+  price: 10000
+  max-level: 5
+# ID ENCHANT 11
+- name: Bane of Athropods (Hại Chân Đốt)
+  enchantment: 11
+  price: 10000
+  max-level: 10
+# ID ENCHANT 12
+- name: Knockback (Đánh Bật Lùi)
+  enchantment: 12
+  price: 10000
+  max-level: 10
+# ID ENCHANT 13
+- name: Fire Aspect (Khía Cạnh Của Lửa)
+  enchantment: 13
+  price: 10000
+  max-level: 10
+# ID ENCHANT 14
+- name: Looting (Nhặt)
+  enchantment: 14
+  price: 10000
+  max-level: 10
+# ID ENCHANT 15
+- name: Efficiency (Hiệu Xuất)
+  enchantment: 15
+  price: 10000
+  max-level: 50
+# ID ENCHANT 16
+- name: Silk Touch (Mềm Mại)
+  enchantment: 16
+  price: 10000
+  max-level: 50
+# ID ENCHANT 17
+- name: Unbreaking (Không Bị Phá Vở)
+  enchantment: 17
+  price: 10000
+  max-level: 50
+# ID ENCHANT 18
+- name: Fortune (Gia Tài)
+  enchantment: fortune
+  price: 10000
+  max-level: 20
+# ID ENCHANT 19
+- name: Power (Sức Mạnh)
+  enchantment: 19
+  price: 10000
+  max-level: 10
+# ID ENCHANT 20
+- name: Punch (Đấm)
+  enchantment: 20
+  price: 10000
+  max-level: 10
+# ID ENCHANT 21
+- name: Flame (Lửa)
+  enchantment: 21
+  price: 10000
+  max-level: 10
+# ID ENCHANT 22
+- name: Infinity (Vô Hạn)
+  enchantment: 22
+  price: 10000
+  max-level: 10
+ # ID ENCHANT 26
+- name: Mending (Tự sửa bằng Exp)
+  enchantment: 26
+  price: 10000
+  max-level: 50
+...

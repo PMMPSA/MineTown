@@ -1,0 +1,11 @@
+name: TopMoneyUI
+main: ac\top\Main
+version: 1.0
+api: 3.0.0
+author: ExecutivAC
+desc: https://www.youtube.com/channel/UCvxekC5VmBC33fl3TV4u9lA
+
+commands:
+    topmoney:
+     usage: /topmoney
+     description: TopMoney on Server!

@@ -1,0 +1,12 @@
+name: IdDao
+api: 3.0.0
+main: IdDao\Main
+version: 1.0.0
+author: GreenJajot
+commands:
+  iddao:
+    description: "Xem Id Đảo Của 1 Người Bạn Muốn"
+    permission: iddao.command
+permissions:
+  iddao.command:
+    default: op

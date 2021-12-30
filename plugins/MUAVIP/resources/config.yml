@@ -1,0 +1,36 @@
+# - Package ( Gói ) Rank Configuration -
+
+VIP.Package: Gói VIP
+VIPs.Package: Gói VIPs
+# - Giá Rank Configuration -
+
+VIP.Cost: 100
+VIPs.Cost: 800
+
+# - Group Rank Configuration -
+
+VIP.Group: VIP
+VIPs.Group: VIPs
+
+
+# - Xác Nhận Mua Vip
+
+Vip.Buy.Button.Confirm: Có
+Vip.Buy.Button.NoConfirm: Không
+
+
+
+# -= Mua Thành Công Configuration =-
+
+Vip.Buy.Success.Title: §l§b♦ §cMineTown Mua VIP §b♦
+Vip.Buy.Success.Content: §aBạn đã mua thành công gói này!
+
+Vip.Buy.Success.Submit: Submit
+
+# -= Mua Không Thành Công Configuration =-
+
+Vip.Buy.NoPoint.Title: §l§b♦ §cMineTown Mua VIP §b♦
+Vip.Buy.NoPoint.Content: §cBạn không đủ tiền để mua gói này!
+
+Vip.Buy.NoPoint.Submit: Submit
+...

@@ -1,0 +1,14 @@
+---
+#Create op SignEnchant
+Create: §cĐã Tạo Thành Công Bảng Enchant.
+#How to create
+Create2: §a1.Line §eEnchant §a2.Line §eID Enchant §a3.Line §ePrice 4.Line §eLevel
+#Successfully built
+Create3: §aBảng Đã Tạo Thành Công.
+#NoMoney
+Money: §cBạn không đủ tiền để enchant này!!.
+#Off Sign Enchant
+Off: §cBảng enchant không hoạt động.
+#Off Sign Enchant OP
+Off2: §cChỉ có chính quyền mới có thể đóng dấu hiệu.
+...

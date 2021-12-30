@@ -1,0 +1,9 @@
+name: HuongDan
+main: HuongDan\Main
+version: 1.0.0
+api: 3.0.0
+author: Phan Hoàng Kha
+
+commands:
+  huongdan:
+    description: Hướng dẫn

@@ -1,0 +1,15 @@
+name: AutoSell
+main: phuongaz\AutoSell\Main
+version: 1.0
+api: 3.0.0
+author: phuongaz
+description: AutoSell
+depend: 
+- SellAll
+commands:
+  autosell:
+    description: "Bật AutoSell !"
+    permission: phuongaz.as
+permissions:
+  phuongaz.as:
+    default: true

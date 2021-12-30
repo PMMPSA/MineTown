@@ -1,0 +1,41 @@
+name: RebirthCoinAPI
+main: onebone\rebirthcoinapi\RebirthCoinAPI
+api: [3.0.0]
+version: 2.0.9
+author: onebone | Djt Mẹ Thằng Lozz
+permissions:
+ rebirthcoinapi.*:
+  default: op
+  description: Allows to control all of functions in RebirthCoinAPI
+  children:
+   rebirthcoinapi.command.*:
+    default: op
+    description: Allows to use all of commands in RebirthCoinAPI
+    children:
+     rebirthcoinapi.command.setrbcoin:
+      default: op
+      description: Allows to set player's point
+     rebirthcoinapi.command.myrbcoin:
+      description: Allows player to see his/her point
+      default: true
+     rebirthcoinapi.command.giverbcoin:
+      description: Allows player to give point to others
+      default: op
+     rebirthcoinapi.command.payrbcoin:
+      description: Allows player to pay to someone
+      default: true
+     rebirthcoinapi.command.seerbcoin:
+      description: Allows player to see others' point
+      default: true
+     rebirthcoinapi.command.setlangrbcoin:
+      description: Allows player to set his/her language
+      default: op
+     rebirthcoinapi.command.toprbcoin:
+      description: Allows player to see top point list
+      default: true
+     rebirthcoinapi.command.mystatusrbcoin:
+      description: Allows player to see his/her financial status
+      default: op
+     rebirthcoinapi.command.takerbcoin:
+      description: Allows player to take point from others
+      default: op

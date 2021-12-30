@@ -1,0 +1,67 @@
+{
+    "language": "vie",
+	"commands": {
+		"myrbcoin": {
+			"usage": "/myrbcoin",
+			"description": "Xem số RebirthCoin của bạn"
+		},
+		"toprbcoin": {
+			"usage": "/toprbcoin [page]",
+			"description": "Xem top RebirthCoin của server."
+		},
+		"setrbcoin": {
+			"usage": "/setrbcoin <player> <amount>",
+			"description": "Chỉnh số RebirthCoin cho 1 người chơi"
+		},
+		"seerbcoin": {
+			"usage": "/seerbcoin <player>",
+			"description": "Xem số RebirthCoin của người chơi khác"
+		},
+		"giverbcoin": {
+			"usage": "/giverbcoin <player> <amount>",
+			"description": "Tặng RebirthCoin cho 1 người chơi"
+		},
+		"takerbcoin": {
+			"usage": "/takerbcoin <player> <amount>",
+			"description": "Lấy RebirthCoin của 1 người chơi"
+		},
+		"payrbcoin": {
+			"usage": "/payrbcoin <player> <amount>",
+			"description": "Tặng RebirthCoin cho 1 người chơi khác"
+		},
+		"setlangrbcoin": {
+			"usage": "/setlangrbcoin <language>",
+			"description": "Đặt ngôn ngữ cho Plugin này"
+		},
+		"mystatusrbcoin": {
+			"usage": "/mystatusrbcoin",
+			"description": "Xem tình trạng RebirthCoin của bạn"
+		}
+	},
+    "language-set": "Đã chọn %1 là ngôn ngữ",
+    "request-cancelled": "Yêu cầu của bạn đã bị hủy",
+    "player-not-connected": "Người chơi tên %1 hiện không có trực tuyến.",
+    "player-never-connected": "Người chơi tên %1 không tìm thấy trong server.",
+    "toprebirthcoin-tag": "-= Top RebirthCoin %1/%2 =-",
+    "toprebirthcoin-format": "]%1] %2: %3 RebirthCoin",
+    "pay-failed": "Bạn không có đủ RebirthCoin để chuyển",
+    "pay-success": "Bạn đã chuyển %1 RebirthCoin cho %2",
+    "rebirthcoin-paid": "Người chơi %1 đã gửi %2 RebirthCoin cho bạn.",
+    "takerebirthcoin-must-be-number": "Số lượng phải là số",
+    "takerebirthcoin-invalid-number": "Số không hợp lệ",
+    "takerebirthcoin-player-lack-of-rebirthcoin": "%1 không đủ %MONETARY_UNIT%%2. %1's RebirthCoin : %MONETARY_UNIT%%3",
+    "takerebirthcoin-rebirthcoin-taken": "RebirthCoin của bạn đã bị tịch thu: %1 RebirthCoin",
+    "takerebirthcoin-took-rebirthcoin": "Đã tịch thu %2 RebirthCoin của người chơi %1",
+    "takerebirthcoin-failed": "Bạn không thể lấy RebirthCoin từ người này",
+    "giverebirthcoin-must-be-number": "Số RebirthCoin phải là số",
+    "giverebirthcoin-invalid-number": "Sai số",
+    "giverebirthcoin-rebirthcoin-given": "Bạn đã nhận được: %1 §eRebirthCoin",
+    "giverebirthcoin-gave-rebirthcoin": "Đã tặng %1 RebirthCoin cho người chơi %2",
+    "seerebirthcoin-seerebirthcoin": "Người chơi %1 hiện đang có: %2 §eRebirthCoin",
+    "setrebirthcoin-setrebirthcoin": "Người chơi %1's đã được chỉnh RebirthCoin thành %2 §eRebirthCoin",
+    "setrebirthcoin-set": "RebirthCoin của bạn đã được đặt lại thành: %1 §eRebirthCoin",
+    "setrebirthcoin-failed": "Không thể đặt RebirthCoin do lỗi không xác định",
+    "setrebirthcoin-invalid-number": "%MONETARY_UNIT%%1 Phải là một số",
+    "myrebirthcoin-myrebirthcoin": "RebirthCoin của bạn: %1 RebirthCoin",
+    "mystatus-show": "Trạng thái RebirthCoin của bạn: %1%"
+}

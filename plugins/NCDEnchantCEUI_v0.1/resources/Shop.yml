@@ -1,0 +1,119 @@
+---
+#Dont Change this
+
+version: "0.1"
+
+# Hỗ Trợ UI
+#Button: "{NAME} {PRICE}$"
+Button: "§e• §c{NAME} §e•"
+slider-title: "\n§l§e• §cLevel: §e"
+messages:
+  label: "§l§e• §c{PRICE} §eKim Cương §f/ §c1 Level"
+
+shop:
+# ENCHANT CE 1
+- name: Lightning (Sấm Sét) (Wepons)
+  enchantment: Lightning
+  price: 10
+  max-level: 3
+# ENCHANT CE 2
+- name: Haste (Đào Nhanh) (Tools)
+  enchantment: Haste
+  price: 10
+  max-level: 5
+# ENCHANT CE 3
+- name: Blind (Gây Mù) (Wepons)
+  enchantment: Blind
+  price: 10
+  max-level: 5
+# ENCHANT CE 4
+- name: Wither (Khô Héo) (Wepons)
+  enchantment: Wither
+  price: 10
+  max-level: 5
+# ENCHANT CE 5
+- name: Poison (Độc) (Wepons)
+  enchantment: Poison
+  price: 10
+  max-level: 5
+# ENCHANT CE 6
+- name: Lifesteal (Hút Máu) (Wepons)
+  enchantment: Lifesteal
+  price: 10
+  max-level: 5
+# ENCHANT CE 7
+- name: Jetpack (Giày Bay) (Boots)
+  enchantment: Jetpack
+  price: 10
+  max-level: 5
+# ENCHANT CE 8
+- name: Gears (Chạy Nhanh) (Boots)
+  enchantment: Gears
+  price: 10
+  max-level: 5
+# ENCHANT CE 9
+- name: Stomp (Dậm Chân) (Boots)
+  enchantment: Stomp
+  price: 10
+  max-level: 5
+# ENCHANT CE 10
+- name: Lumberjack (Gỗ Xẻ) (Axe)
+  enchantment: Lumberjack
+  price: 10
+  max-level: 5
+# ENCHANT CE 11
+- name: Volley (Bắn Nhiều Tên) (Bow)
+  enchantment: Volley
+  price: 10
+  max-level: 5
+# ENCHANT CE 12
+- name: Witherskull (Sọ Khô Héo) (Bow)
+  enchantment: Witherskull
+  price: 10
+  max-level: 5
+# ENCHANT CE 13
+- name: Autorepair (Sửa Đồ Tự Động) (Damageable)
+  enchantment: Autorepair
+  price: 10
+  max-level: 5
+# ENCHANT CE 14  
+- name: Harvest (Bội Thu) (Hoe)
+  enchantment: Harvest
+  price: 10
+  max-level: 5  
+# ENCHANT CE 15  
+- name: Vampire (Lấy máu) (Wepons)
+  enchantment: Vampire
+  price: 10
+  max-level: 2  
+# ENCHANT CE 16  
+- name: Wither (Khô héo) (Wepons)
+  enchantment: Wither
+  price: 10
+  max-level: 4 
+# ENCHANT CE 17  
+- name: Tank (Phòng thủ cao) (Armmor)
+  enchantment: Tank
+  price: 10
+  max-level: 5
+# ENCHANT CE 17  
+- name: Heavy (Chống chọi) (Armmor)
+  enchantment: Heavy
+  price: 10
+  max-level: 5
+# ENCHANT CE 18
+- name: Shielded (Che chắn) (Armmor)
+  enchantment: Shielded
+  price: 40
+  max-level: 2
+# ENCHANT CE 19
+- name: Overload (Thêm máu) (Armmor)
+  enchantment: Overload
+  price: 40
+  max-level: 3
+# ENCHANT CE 20
+- name: Endershift (Hồi máu) (Armmor)
+  enchantment: Endershift
+  price: 100
+  max-level: 1
+...

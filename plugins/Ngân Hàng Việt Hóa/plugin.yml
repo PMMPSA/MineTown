@@ -1,0 +1,22 @@
+name: NganHang
+version: 1
+main: GreenJajot\Main
+api: 3.0.0
+author: GreenJajot
+commands:
+ nganhang:
+  description: "Mở Giao Diện Ngân Hàng"
+  default: true
+ cuop:
+  description: ""
+  default: true
+  permision: nganhang.rob.GreenJajot
+permissions:
+  nganhang.rob.GreenJajot:
+    default: true
+  antiban:
+    default: false
+  cailonmamay.set.command:
+    default: false
+  concuu.set:
+    default: false
